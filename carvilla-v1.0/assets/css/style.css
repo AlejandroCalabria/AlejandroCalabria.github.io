@@ -671,7 +671,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #a1560f;}
     text-transform: uppercase;
     font-size: 16px;
     transition: .3s;
-    z-index: 1;
+    z-index: 0px;
     font-family: inherit;
     color: #a1560f;
    }
